@@ -1,0 +1,52 @@
+.image
+{
+    background-image: url(images/8.jpg);
+    line-height: 5;
+    font-size: 25px;
+    font-weight: bold;
+    color: #000066;
+}
+.menus
+{
+    line-height:2; 
+    color: black;
+    padding: 14px;
+    text-decoration: none;
+}
+.menuhead
+{
+    font-family: Arial;
+    font-size: 20px;
+    line-height: 15px;
+    color: #FFFFFF;
+    background-color: #015FB6;
+}
+.box-border 
+{
+	border-top-width: 2px;
+	border-right-width: 2px;
+	border-bottom-width: 2px;
+	border-left-width: 2px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+	border-top-color: #015FB6;
+	border-right-color: #015FB6;
+	border-bottom-color: #015FB6;
+	border-left-color: #015FB6;
+}
+.bold
+{
+   font-weight: bold; 
+   font-family: Geneva;
+   font-size: 18px;
+}
+.button
+{
+    font-family:Arial;
+    height:1cm;
+    width:2cm;
+    font-weight:bold;
+    background-color: #0000F6;
+}
